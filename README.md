@@ -9,7 +9,7 @@
 - 🐱‍💻 Estoy buscando colaborar en proyectos tanto de front-end como de back-end, donde pueda aplicar mis habilidades en ***JavaScript (incluyendo jQuery), Java, PHP, HTML, CSS, Python, .NET, C#, C++ y bases de datos SQL (MySQL, PostgreSQL y SQL Server).***
 
 <!---📫 **Puedes contactarme a través de mi correo electrónico: alexfernandezsanchez.**-->
-- ⚡ Lo que me gusta hacer: **Disfruto mucho dibujar, escuchar musica y por supuesto aprender programar nuevas cosas**
+- ⚡ Lo que me gusta hacer: **Dibujar, escuchar musica y por supuesto aprender programar nuevas cosas**
 
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"><b> Connect with Me</b>
