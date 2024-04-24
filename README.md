@@ -32,7 +32,7 @@
   <img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/cpp.png'    width="40" height='40' alt="C++"/>
   <img src="https://user-images.githubusercontent.com/64439609/212555599-9b7ae14f-093a-41bf-8cb8-3cdefd418636.png" width="40" height="40" />
   <img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/python.png' height='40' alt="Python"/>
-   <img src="https://user-images.githubusercontent.com/64439609/212556864-5e9d0896-e1d7-4db0-981e-764c47d06f38.png" width="40" height="40" alt="PHP" />
+  <img src="https://www.php.net/images/logos/new-php-logo.svg"                           width="40" height="40" alt="PHP" />
   <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/jupy.png'       height='40'/>
   <img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/java.png'   height='40' alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"  width="40" height='40'/> 
