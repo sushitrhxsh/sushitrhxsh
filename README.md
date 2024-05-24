@@ -2,11 +2,11 @@
 <h3 align="center">Passionate application developer constantly learning, improving, and exploring new technologies.</h3>
 <br>
 
-- 🌟 I'm currently working on web development projects using technologies such as ***JavaScript, Java, PHP, C#, C++, HTML5, CSS3, Python, and .NET.***
+- 🌟 I'm currently working on web development projects using technologies such as ***JavaScript, Java, PHP, C#, C++, HTML5, CSS3, Python, and ASP.NET CORE.***
 
 - 💊 I'm continuously learning about new libraries and frameworks for web development, as well as improvements in programming languages in the web environment.
 
-- 🐱‍💻 I'm looking to collaborate on both front-end and back-end projects, where I can apply my skills in ***JavaScript (including jQuery), Java, PHP, HTML, CSS, Python, .NET, C#, C++, and SQL databases (MySQL, PostgreSQL, and SQL Server).***
+- 🐱‍💻 I'm looking to collaborate on both front-end and back-end projects, where I can apply my skills in ***JavaScript (including jQuery), Java, PHP, HTML, CSS, Python, ASP.NET CORE, C#, C++, and SQL databases (MySQL, PostgreSQL, and SQL Server).***
 
 - ⚡ What I love to do: **Drawing, listening to music, and of course learning to program new things**
 
