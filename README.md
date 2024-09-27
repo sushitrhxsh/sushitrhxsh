@@ -3,6 +3,8 @@
 <br>
 
 - 🌟 I'm currently working on web development projects using technologies such as ***JavaScript, Java, PHP, C#, C++, HTML5, CSS3, Python, and ASP.NET CORE.***
+  
+- 🛠 I'm currently learning **TypeScript, Node.js, Angular, and React** to enhance my full-stack development skills.
 
 - 💊 I'm continuously learning about new libraries and frameworks for web development, as well as improvements in programming languages in the web environment.
 
@@ -17,12 +19,14 @@
 <div align="center">
   
   [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-fernandez-sanchez-b4522b298/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexfernandezsanchez12@gmail.com)
   
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
 <br>
 
+## <b>Technologies I'm Working</b>
 <p align="center">
   <!-- Programming languages -->
   <img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" height="40" alt="HTML" />
@@ -43,4 +47,12 @@
   <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="GitHub"/>
   <img src="https://user-images.githubusercontent.com/64439609/212556816-5f39489d-6cee-4f1c-997f-4d30a391287c.png" width="40" height="40" alt="VS"/>
   <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="VS Code"/>
+</p>
+
+## <b>Technologies I'm Learning</b>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"     alt="Node.js">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"       alt="Angular">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"           alt="React">
 </p>
