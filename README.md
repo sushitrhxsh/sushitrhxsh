@@ -46,7 +46,7 @@
   <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="VS Code"/>
 </p>
 
-## <img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" height="30"><b>Technologies I'm Learning</b>
+## <img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" height="30"><b> Technologies I'm Learning</b>
 <p>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"     alt="Node.js">
